@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sarthak-github30
 - 👀 I’m interested in coding and web devlopment,software development
-- 🌱 I’m currently learning DSA c/c++ , java
+- 🌱 I’m currently learning DSA, Full Stack Java
 - 💞️ I’m currently pursuing my btech in computer science
-- 📫 How to reach me....
-    INSTA - @musiciansarthak
+- 📫 How to reach me sarthakdongare.dev@gmail.com
     
     EMAIL - sarthakdongare03@gmail.com
 <!---
