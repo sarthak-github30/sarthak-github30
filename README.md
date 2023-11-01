@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sarthak-github30
-- 👀 I’m interested in coding and web devlopment,software development
+- 👀 I’m interested in coding and web devlopment.
 - 🌱 I’m currently learning DSA, Full Stack Java
-- 💞️ I’m currently pursuing my btech in computer science
-- 📫 How to reach me sarthakdongare.dev@gmail.com
+- 💞️ I’m currently pursuing my btech in computer science and engineering.
+- 📫 How to reach me  Gmail - sarthakdongare.dev@gmail.com
     
 
 <!---
