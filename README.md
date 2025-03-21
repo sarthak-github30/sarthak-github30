@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Dongre</h1>
 <h3 align="center">A Passionate Full Stack Developer | Java & MERN Explorer 🚀 Debugging my way from 'Hello World' to 'System Design'!</h3>
-~hmac=a099c18c97a1604ec2687d8601c9301b80082ad53ae2644eea34cb7d33f0d14c&w=826"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak30&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak30" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot | Microservices | Hibernate | System Design | DSA**
