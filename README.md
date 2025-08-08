@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sarthakdongare.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XFGOTjzSRXzgfMNoflKswbbPxOqLvOKE/view?usp=drive_link](https://drive.google.com/file/d/1XFGOTjzSRXzgfMNoflKswbbPxOqLvOKE/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1ladYaOjbbVI78eTLsriBHUg_6mMGZ9bT/view?usp=sharing
 
 - ⚡ Fun fact **I don’t skip leg day or semicolons!**
 
